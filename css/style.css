@@ -21,6 +21,7 @@ html {
     padding-bottom: 5px;
     box-sizing: border-box;
     margin-top: 9px;
+    padding-top: 38px;
   }
 
 .Header {
@@ -125,6 +126,7 @@ html {
     padding-top: 3.6px;
     padding-bottom: 5.4px;
     margin-left: 160px;
+    margin-top: 28px;
 }
 
 .Sub-2 {
